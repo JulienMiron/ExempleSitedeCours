@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "documents/*.pdf"
+
+lang: fr
+
+website:
+  title: "Site du département"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: calendrier.qmd
+        text: Calendrier
+      - href: documents.qmd
+        text: Documents
+  page-footer:
+    center: "Département de mathématiques et de statistique — Université Laval"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

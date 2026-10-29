@@ -1,0 +1,12 @@
+---
+title: "Calendrier"
+---
+
+<!-- Pour ajouter une date : copier une ligne du tableau et la modifier. -->
+
+| Date            | Événement                     | Remarque              |
+|-----------------|-------------------------------|-----------------------|
+| 7 janvier 2027  | Début de la session d'hiver   |                       |
+| 18 février 2027 | Examen 1                      | Salle à confirmer     |
+| 1er mars 2027   | Semaine de lecture            | Pas de cours          |
+| 15 avril 2027   | Examen final                  |                       |

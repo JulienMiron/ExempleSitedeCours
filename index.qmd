@@ -1,0 +1,10 @@
+---
+title: "Bienvenue"
+---
+
+Ce site sert de point de départ pour un site de cours ou de département.
+
+- Le **[calendrier](calendrier.qmd)** présente les dates importantes.
+- La section **[documents](documents.qmd)** regroupe les fichiers à télécharger (surtout des PDF).
+
+Pour modifier le site, voir le fichier `README.md` du dépôt.

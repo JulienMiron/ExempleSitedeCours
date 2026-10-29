@@ -1,0 +1,11 @@
+---
+title: "Documents"
+---
+
+<!--
+Pour ajouter un document :
+  1. Déposer le fichier PDF dans le dossier documents/
+  2. Ajouter une ligne ci-dessous : - [Titre affiché](documents/nom-du-fichier.pdf)
+-->
+
+- [Exemple de document](documents/exemple.pdf)
